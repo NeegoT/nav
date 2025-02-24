@@ -14,7 +14,7 @@ gitRepoUrl: https://github.com/neegot/nav
 # Fork 部署分支
 branch: main
 
-# 只有GitHub pages用户需要设置为true， 其他建议设置为 false
+# 只有GitHub pages 用户需要设置为true， 其他建议设置为 false
 hashMode: true
 
 # 一旦填写认为你是自有部署，Fork 不要填写
